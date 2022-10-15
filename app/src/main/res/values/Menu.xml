@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="totItems">25</integer>
+    <integer-array
+        name="foodint">
+        <item>40</item>
+        <item>100</item>
+        <item>120</item>
+        <item>50</item>
+        <item>100</item>
+        <item>110</item>
+        <item>150</item>
+        <item>150</item>
+        <item>50</item>
+        <item>30</item>
+        <item>40</item>
+        <item>75</item>
+        <item>80</item>
+        <item>75</item>
+        <item>100</item>
+        <item>20</item>
+        <item>15</item>
+        <item>30</item>
+        <item>50</item>
+        <item>35</item>
+        <item>30</item>
+        <item>60</item>
+        <item>50</item>
+        <item>80</item>
+        <item>90</item>
+
+    </integer-array>
+    <string-array name="food">
+        <item>Sandwich</item>
+        <item>Burger</item>
+        <item>Double Cheese Burger</item>
+        <item>Fries</item>
+        <item>Pizza</item>
+        <item>Paneer Pizza</item>
+        <item>Red sauce Pasta</item>
+        <item>White sauce Pasta</item>
+        <item>Idli</item>
+        <item>Appe</item>
+        <item>wada sambar</item>
+        <item>Masala Dosa</item>
+        <item>Uttapam</item>
+        <item>Momos</item>
+        <item>Sushi</item>
+        <item>Pepsi</item>
+        <item>Lassi</item>
+        <item>Coca Cola</item>
+        <item>Ice cream</item>
+        <item>Chocolate Milkshake</item>
+        <item>Strawberry Milkshake</item>
+        <item>Soup</item>
+        <item>Manchurian</item>
+        <item>Noodles</item>
+        <item>Schezwan Noodles</item>
+    </string-array>
+</resources>
